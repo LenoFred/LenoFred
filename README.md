@@ -67,7 +67,7 @@ Ethical AI system helping children with speech articulation disorders through re
 ---
 
 ### 🛡️ **TrustMe: Financial Misinformation Detection**
-[![Status](https://img.shields.io/badge/Status-Hackathon_Winner-gold?style=flat)](https://github.com/LenoFred)
+[![Status](https://img.shields.io/badge/Status-Zecathon_Hackathon-gold?style=flat)](https://github.com/LenoFred)
 
 Real-time AI system detecting financial misinformation on social media, built for Central Bank of Nigeria use-case (Zecathon 2025).
 
