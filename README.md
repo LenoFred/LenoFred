@@ -169,27 +169,6 @@ Multi-agent system transforming learning notes into platform-specific publishabl
 🌟 Academic Excellence Award - Outstanding Performance (2021)
 👔 NACOS President - Lead City University (2021-2022)
 ```
-
----
-
-## 💼 Professional Experience
-
-**Independent Research Assistant** | University of Ilorin (Feb 2024 - Aug 2024)
-- Supported 6 undergraduate thesis projects with data analysis and statistical validation
-- Guided methodology design, hypothesis testing, and visualization techniques
-
-**Software Development Contractor** | Iworld Financial Services (Mar 2024 - Jul 2024)
-- Developed secure payment gateway integration for cowry card top-up system
-- Enhanced customer experience through streamlined remote transaction processing
-
-**Junior IT Staff** | BEL Impex Limited (Feb 2023 - Jan 2024)
-- Provided technical support for enterprise IT systems and inventory management
-- Designed database architecture for Project Management System (PMS)
-
-**Project Manager/Software Engineer** | Lead City University (Jul 2022 - Jun 2023)
-- Led agile development of hostel allocation system with management dashboard
-- Managed complete project lifecycle from requirements to deployment
-
 ---
 
 ## 📊 GitHub Stats
