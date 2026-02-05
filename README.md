@@ -171,19 +171,6 @@ Multi-agent system transforming learning notes into platform-specific publishabl
 ```
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LenoFred&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenoFred&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LenoFred&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
