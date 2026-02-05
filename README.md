@@ -14,12 +14,12 @@
 
 ## 🧑🏽‍💻 About Me
 
-I'm an **AI/ML Researcher and Engineer** passionate about creating intelligent systems that balance innovation with responsibility. Currently completing my **MSc in Data Science** at Pan-Atlantic University (First Class Honours, GPA 4.81/5.0), I focus on **privacy-preserving AI**, **LLM security**, and **multi-agent systems**.
+I'm an **AI/ML Researcher and Engineer** passionate about building intelligent systems that drive real business impact while maintaining ethical standards that balance innovation with responsibility. **MSc in Data Science** at Pan-Atlantic University, I focus on **ML business use-case**, **privacy-preserving AI**, **optimizing business process**, **LLM security**, and **multi-agent systems**.
 
-My research addresses critical problems at the intersection of artificial intelligence and privacy, most notably the **Puzzle Piece Privacy Problem (PZPP)** in multi-agent LLM systems. I'm equally excited about applying AI to healthcare, financial systems, and energy sector optimization.
+My research addresses critical problems at the intersection of artificial intelligence and privacy, most notably the **Puzzle Piece Privacy Problem (PZPP)** in multi-agent LLM systems. I'm equally excited about applying AI to Telecom, financial systems, healthcare, and energy sector optimization.
 
 🎯 **Currently**: Seeking PhD opportunities in AI/ML with focus on privacy-preserving systems and responsible AI deployment  
-🔬 **Research Interests**: Privacy in LLMs • Multi-Agent Systems • Healthcare AI • Information-Theoretic Privacy • Process Optimization  
+🔬 **Research Interests**: Privacy in LLMs • Multi-Agent Systems • Energy AI • Information-Theoretic Privacy • Process Optimization  
 🌱 **Learning**: Advanced Reinforcement Learning, Energy-Tech AI Applications, Federated Learning  
 💡 **Next**: Expanding into AI for Oil & Gas sector optimization and sustainability
 
@@ -31,7 +31,7 @@ My research addresses critical problems at the intersection of artificial intell
 [![Repo](https://img.shields.io/badge/Repo-PRISM__Privacy-blue?style=flat&logo=github)](https://github.com/LenoFred/PRISM_Privacy)
 [![Paper](https://img.shields.io/badge/Paper-Coming_Soon-red?style=flat&logo=arxiv)](https://arxiv.org)
 
-**MSc Thesis Research** (Defended January 2026, Grade A)
+**MSc Thesis Research** (Defended October 2025, Graded)
 
 Novel framework addressing the Puzzle Piece Privacy Problem (PZPP) in multi-agent LLM workflows. Achieved **81.5% reduction in privacy exfiltration** while maintaining **100% task utility** through semantic minimization and restricted information mechanisms.
 
@@ -69,7 +69,7 @@ Ethical AI system helping children with speech articulation disorders through re
 ### 🛡️ **TrustMe: Financial Misinformation Detection**
 [![Status](https://img.shields.io/badge/Status-Hackathon_Winner-gold?style=flat)](https://github.com/LenoFred)
 
-Real-time AI system detecting financial misinformation on social media, built for Central Bank of Nigeria (Zecathon 2025).
+Real-time AI system detecting financial misinformation on social media, built for Central Bank of Nigeria use-case (Zecathon 2025).
 
 - 🎯 **Impact**: Reduces incident-to-action response time from days to minutes
 - 🧠 **Capabilities**: Semantic clustering, RAG-based factuality verification, risk scoring
@@ -145,7 +145,7 @@ Multi-agent system transforming learning notes into platform-specific publishabl
 
 **🎓 Academic**
 - **MSc Data Science** | Pan-Atlantic University (2024-2025)  
-  First Class Honours | GPA: 4.81/5.0 | Best Thesis (Grade A)
+  First Class Honours | GPA: 4.81/5.0 | Thesis (Grade A)
   
 - **BSc Computer Science** | Lead City University (2018-2022)  
   First Class Honours | GPA: 4.7/5.0 | Best Graduating Student
@@ -154,8 +154,8 @@ Multi-agent system transforming learning notes into platform-specific publishabl
 - 🏆 **Associate Chartered Project Manager (CIPM)** (2024)
 - 🏆 **Project Management Professional (PMP)** Certified
 - 🎯 **IBM Big Data Technologies**
-  - Big Data 101 (BD0101EN)
-  - Hadoop 101 (BD0111EN)
+  - Big Data (BD0101EN)
+  - Hadoop (BD0111EN)
   - Apache Kafka for Data Pipelines (BD0123EN)
   - SQL & Relational Databases (DB0101EN)
 - 💻 **Applied Machine Learning** Certified
@@ -212,9 +212,9 @@ Multi-agent system transforming learning notes into platform-specific publishabl
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-frederickallen468%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frederickallen468@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](YOUR_SUBSTACK_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenfrederick1/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Allen_fred1)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://allenfrederick.substack.com/)
 
 </div>
 
